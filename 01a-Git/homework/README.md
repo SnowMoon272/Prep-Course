@@ -1,6 +1,5 @@
 # Homework: Git
 
-Prueba.
 
 ### Pre-requisitos
 
