@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+ A) Variables
+    Las variables son espacios de memoria reservados para almacenar un dato de cualquier tipo, existen varios tipos entre ellos "Strings" "Number" "Booleanos" entre otros, también existen diferentes formas de declarar una variable.
+
+ B) Strings
+    Los Strings son un tipo de variable el cual reconoce a un espacio de memoria como una cadena de texto, puedes almacenar en un string cualquier carácter del teclado incluso números y estos serán reconocidos como el símbolo 1 y no como el número 1.
+
+ C) Funciones (argumentos, `return`)
+    Las Funciones son elementos que podemos crear para encapsular código que deberá repetirse de manera que no tenemos que escribirlo cada vez que deseamos ejecutarlo, solo deberemos llamar la función y pasarle como argumento lo que esta necesite para funcionar, los argumentos son variables internas existentes únicamente en el scope de la función y le ayudan a funcionar correctamente, retunr es lo que regresan la funciones después de terminar su código, todas la función retornan algo, pero si no se especifica, será undefined lo que retorne, a pesar de haber realizado correctamente su código.
+
+ D) Declaraciones `if`
+    Las declaraciones "if" son una forma de preguntar para ejecutar un código determinado u otro, de esta forma podemos tomar decisiones respecto a que mostrar cuando suceda una acción.
+ 
+ E) Valores booleanos (`true`, `false`)
+    Los valores de tipo booleanos son variables que únicamente pueden contener true o false de manera que funcionan como un apagador de luz, encendido o apagado y sirven para determinar estados.
