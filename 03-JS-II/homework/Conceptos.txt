@@ -1,0 +1,10 @@
+1.- En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+      * for
+      * &&, ||, !
+
+ A) Ciclo For.
+      El ciclo for es un código diseñado para repetir el código existente dentro de sí mismo, según los parámetros que se indiquen al momento de crearse, el programador es quien decide los límites de esta repetición, por lo que de no tener cuidado puede crear un ciclo infinito el cual los navegadores detendrán y arrojaran un error en su ejecución.
+
+ B) Operadores Lógicos.
+    Los operadores lógicos son caracteres del teclado reservados para cumplir con una tarea en específico, tales como "&&" los cuales fueron diseñados para enlazar dos condiciones y solo si ambas se resuelven esta condición será verdadera, otro de los operadores es: "||" estos fueron diseñados para comparar, de manera que al existir más de una respuesta correcta en una condición puede utilizar este operador para elegir entre una u otra opción y basta con que una será correcta para resolver la condición inicial.
+    Por último tenemos "!", este operador está diseñado para negar la operación inicial, de manera que si el resultado es + con este operador lo convertirás a - en todos las formas que se pueda representar "+" y "-" "True" o "False" etc.
