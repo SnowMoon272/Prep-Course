@@ -1,0 +1,21 @@
+1.- En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+    * Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+ A) Objetos.
+     Son representaciones de algo (Objetos) en la vida real que no pueden ser descritos solo por un número o un nombre, deben tener más de una característica para identificarlos.
+
+ B) Propiedades
+     Las propiedades son los nombres que les designamos al espacio donde almacenamos un valor. Son parte de los objetos.
+
+ C) Métodos
+     Los métodos son funciones las cuales únicamente funcionan si son invocadas por un objeto, de manera que se convierten en métodos de un objeto.
+
+ D) Bucle "for...in"
+     Es un bucle similar al bucle for y sirve para recorrer las propiedades y valores de un objeto.
+
+ E) Notación de puntos vs notación de corchetes.
+     La notación de puntos y corchetes son dos formas diferentes de acceder a los valores que contiene un objeto, con la diferencia de su forma de acceder, ya que los corchetes son más como un Array y la notación de punto es más acortada.
