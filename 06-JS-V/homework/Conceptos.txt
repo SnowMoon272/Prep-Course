@@ -1,0 +1,10 @@
+1.- En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+    * Prototype
+	* Costructors (de clases)
+
+ A) Prototype.
+     Son similares a las plantillas de word, su objetivo es proveer  de una base a los objetos creados a base de un proto.
+
+ B) Costructors
+     Es la parte del código dentro de una clase que define como será inicializado un objeto creado a base de esa clase, en él se definen variables y funciones que pasan a ser métodos por provenir de una clase.
+
