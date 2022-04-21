@@ -1,0 +1,218 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  box-sizing: border-box;
+  background-color: rgb(99, 99, 99);
+  margin: 0px;
+  bottom: 0px;
+  display: flex;
+  justify-content: center;
+}
+.cv-container {
+  /* border: solid rgb(255, 0, 204) 3px; */
+  width: 124rem;
+  height: 100%;
+}
+.header-container {
+  background-image: url(./Recursos-tareas/Code.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+  width: 100%;
+  height: 30rem;
+  /* border: solid red 3px; */
+  display: flex;
+  justify-content: center;
+}
+header {
+  /* border: solid rgb(0, 26, 255) 3px; */
+  background-color: rgba(0, 0, 0, 0.725);
+  width: 100%;
+  height: 30rem;
+  display: flex;
+  justify-content: center;
+}
+.header-container-content {
+  /* border: solid rgb(0, 255, 38) 3px; */
+  width: 85%;
+  height: 55%;
+  margin: 6rem;
+  display: flex;
+  justify-content: space-between;
+  color: aliceblue;
+}
+.titles-containers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.titles-containers h1 {
+  font-weight: bold;
+  font-size: 5rem;
+}
+.titles-containers h2 {
+  font-size: 2.5rem;
+  margin-top: 0px;
+}
+.header-container-content img {
+  border: 3px solid rgb(80, 79, 79);
+  border-radius: 25px;
+}
+
+.Sections-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  /* border: solid rgb(13, 0, 255) 3px; */
+}
+.Section-A {
+  /* border: solid rgb(0, 255, 76) 3px; */
+  background-color: aliceblue;
+  width: 35%;
+}
+.Section-A__Title {
+  border-bottom: solid rgb(0, 0, 0) 7px;
+  font-size: 3rem;
+  margin: 1rem 0px 2.5rem 2rem;
+  padding: 0.5rem;
+  width: fit-content;
+}
+.Section-A__Contact {
+  /* border: solid rgb(255, 0, 204) 3px; */
+  width: 100%;
+}
+.Section-A__Contact ul {
+  /* border: solid rgb(251, 255, 0) 3px; */
+  margin-left: 1.5rem;
+  padding-left: 0px;
+}
+.Section-A__Contact ul li {
+  /* border: solid rgb(255, 0, 0) 3px; */
+  display: flex;
+  align-items: center;
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin: 1rem 0px;
+}
+.Section-A__Contact ul li p {
+  margin: 0px;
+}
+.Section-A__Contact ul li a {
+  text-decoration: none;
+  color: black;
+}
+.Section-A__Contact ul li img {
+  margin-right: 2rem;
+}
+
+.Section-A__Skills {
+  /* border: solid rgb(255, 0, 0) 3px; */
+  width: 100%;
+}
+.Title2 {
+  width: 64%;
+  margin-top: 3rem;
+}
+.Section-A__Skills ul li {
+  font-size: 2rem;
+  font-weight: bold;
+  color: rgb(91, 91, 91);
+  margin-bottom: 0.8rem;
+}
+
+.Section-A__Education {
+  /* border: solid rgb(255, 0, 0) 3px; */
+  width: 100%;
+}
+.Title3 {
+  /* width: 64%; */
+  margin-top: 3rem;
+}
+.Section-A__Education ul {
+  margin-left: 1.5rem;
+  padding-left: 0px;
+}
+.Section-A__Education ul li {
+  display: flex;
+  align-items: center;
+  font-size: 2.2rem;
+  margin: 1rem 0px;
+}
+.Section-A__Education ul li p {
+  margin: 0.5rem 1.5rem;
+}
+.Section-A__Education ul li p span {
+  margin: 0.5rem 1.5rem;
+  font-weight: bold;
+}
+.Section-A__Education ul li img {
+  border-radius: 10px;
+}
+
+.Section-B {
+  /* border: solid rgb(0, 255, 76) 3px; */
+  background-color: rgb(155, 164, 170);
+  width: 65%;
+  padding: 0px 3rem;
+}
+.Section-B h4 {
+  font-size: 2.4rem;
+  margin: 0px 2.2rem;
+}
+.Section-B p {
+  font-size: 1.8rem;
+  margin: 0px 2.2rem;
+}
+.Section-B ul {
+  margin-bottom: 3.5rem;
+}
+.Section-B li {
+  font-size: 1.8rem;
+  margin-top: 0.6rem;
+}
+.Section-B__Hobbies ol {
+  margin-left: 2rem;
+}
+
+footer {
+  background-color: rgb(67, 67, 80);
+  margin: 0px;
+  color: azure;
+  height: 18rem;
+}
+footer h3 {
+  text-align: center;
+  font-size: 3.5rem;
+  width: 96%;
+
+  margin: 0px;
+  padding: 2rem;
+}
+footer p {
+  text-align: center;
+  width: 96%;
+  margin: 0px;
+  font-size: 2rem;
+  padding: 0px 2.5rem;
+}
+
+.Extra {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Extra h2 {
+  font-size: 3.5rem;
+  margin-bottom: 0px;
+  border-bottom: 7px solid black;
+}
+.Extra a {
+  width: 200px;
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+}
+.Extra a img {
+  width: 150px;
+}
